@@ -1,4 +1,4 @@
-# Awsome Code Streamers
+# Awesome Code Streamers
 
 List of code streamers from multiples plataforms like Twitch, Youtube, etc
 
