@@ -30,6 +30,7 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 - [CodeShow](https://www.twitch.tv/codeshow)
 - [LucasMontano](https://www.twitch.tv/lucas_montano)
 - [Alvaro Viebrantz](https://www.twitch.tv/alvaroviebrantz)
+- [ViniciusQuaiato](https://www.twitch.tv/vquaiato)
 
 ## YouTube
 
