@@ -21,3 +21,4 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 - [marcobrunodev](https://www.twitch.tv/marcobrunodev)
 - [HackingTV](https://www.twitch.tv/hackingtv)
 - [CodeShow](https://www.twitch.tv/codeshow)
+- [LucasMontano](https://www.twitch.tv/lucas_montano)
