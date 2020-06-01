@@ -27,6 +27,8 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 - [ProgramadorRanzinza](https://www.twitch.tv/programadorranzinza)
 - [Lana_Lux](https://www.twitch.tv/lana_lux)
 - [CodigoFalado](https://www.twitch.tv/codigofalado)
+- [CodeShow](https://www.twitch.tv/codeshow)
+- [LucasMontano](https://www.twitch.tv/lucas_montano)
 
 ## YouTube
 
