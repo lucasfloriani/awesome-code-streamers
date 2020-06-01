@@ -24,6 +24,9 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 - [Jason Lengstorf](https://www.twitch.tv/jlengstorf/)
 - [Benjamin Lannon](https://www.twitch.tv/lannonbr)
 - [wesbos](https://www.twitch.tv/wesbos)
+- [ProgramadorRanzinza](https://www.twitch.tv/programadorranzinza)
+- [Lana_Lux](https://www.twitch.tv/lana_lux)
+- [CodigoFalado](https://www.twitch.tv/codigofalado)
 
 ## YouTube
 
