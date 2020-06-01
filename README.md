@@ -20,5 +20,18 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 - [cmgriffing](https://www.twitch.tv/cmgriffing)
 - [marcobrunodev](https://www.twitch.tv/marcobrunodev)
 - [HackingTV](https://www.twitch.tv/hackingtv)
+- [PokemaoBR](https://www.twitch.tv/pokemaobr)
+- [Jason Lengstorf](https://www.twitch.tv/jlengstorf/)
+- [Benjamin Lannon](https://www.twitch.tv/lannonbr)
+- [wesbos](https://www.twitch.tv/wesbos)
+- [ProgramadorRanzinza](https://www.twitch.tv/programadorranzinza)
+- [Lana_Lux](https://www.twitch.tv/lana_lux)
+- [CodigoFalado](https://www.twitch.tv/codigofalado)
+- [CodeShow](https://www.twitch.tv/codeshow)
 - [LucasMontano](https://www.twitch.tv/lucas_montano)
+- [Alvaro Viebrantz](https://www.twitch.tv/alvaroviebrantz)
 - [ViniciusQuaiato](https://www.twitch.tv/vquaiato)
+
+## YouTube
+
+- [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
