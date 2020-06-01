@@ -30,10 +30,10 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 | [ProgramadorRanzinza](https://www.twitch.tv/programadorranzinza)        |                                      | :brazil:      |
 | [RenanMav](https://www.twitch.tv/renanmav)                              |                                      | :brazil:      |
 | [TheAltF4Stream](https://www.twitch.tv/thealtf4stream)                  |                                      | :us:          |
+| [Tsoding](https://www.twitch.tv/tsoding)                                |                                      | :us:          |
 | [VapeJuiceJordan](https://www.twitch.tv/vapejuicejordan)                |                                      | :us:          |
 | [ViniciusQuaiato](https://www.twitch.tv/vquaiato)                       |                                      | :brazil:      |
 | [wesbos](https://www.twitch.tv/wesbos)                                  |                                      | :us:          |
-| [Tsoding](https://www.twitch.tv/tsoding)                                  |                                      | :us:          |
 
 ## YouTube
 
