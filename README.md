@@ -20,6 +20,7 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 - [cmgriffing](https://www.twitch.tv/cmgriffing)
 - [marcobrunodev](https://www.twitch.tv/marcobrunodev)
 - [HackingTV](https://www.twitch.tv/hackingtv)
+- [PokemaoBR](https://www.twitch.tv/pokemaobr)
 - [Jason Lengstorf](https://www.twitch.tv/jlengstorf/)
 - [Benjamin Lannon](https://www.twitch.tv/lannonbr)
 - [wesbos](https://www.twitch.tv/wesbos)
