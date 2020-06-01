@@ -20,3 +20,4 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 - [cmgriffing](https://www.twitch.tv/cmgriffing)
 - [marcobrunodev](https://www.twitch.tv/marcobrunodev)
 - [HackingTV](https://www.twitch.tv/hackingtv)
+- [CodeShow](https://www.twitch.tv/codeshow)
