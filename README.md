@@ -20,3 +20,5 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 - [cmgriffing](https://www.twitch.tv/cmgriffing)
 - [marcobrunodev](https://www.twitch.tv/marcobrunodev)
 - [HackingTV](https://www.twitch.tv/hackingtv)
+- [LucasMontano](https://www.twitch.tv/lucas_montano)
+- [ViniciusQuaiato](https://www.twitch.tv/vquaiato)
