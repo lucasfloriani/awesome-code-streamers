@@ -12,7 +12,7 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 | [Benjamin Lannon](https://www.twitch.tv/lannonbr)                       |                                      | :us:          |
 | [BrenoMartinsDEV](https://www.twitch.tv/brenomartinsdev)                |                                      | :brazil:      |
 | [cmgriffing](https://www.twitch.tv/cmgriffing)                          |                                      | :us:          |
-| [CodeShow](https://www.twitch.tv/codeshow)                              |                                      | :brazil:      |
+| [CodeShow](https://www.twitch.tv/codeshow)                              |  Python, Flask                       | :brazil: :us  |
 | [CodigoFalado](https://www.twitch.tv/codigofalado)                      |                                      | :brazil:      |
 | [danielhe4rt](https://www.twitch.tv/danielhe4rt)                        |                                      | :brazil:      |
 | [EduardoRFS](https://www.twitch.tv/eduardorfs)                          |                                      | :brazil: :us: |
