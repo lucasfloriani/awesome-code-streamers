@@ -6,37 +6,37 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 
 | Streamer                                                                | Main Technologies                    | Language      |
 |-------------------------------------------------------------------------|--------------------------------------|---------------|
-| [Adam13531](https://www.twitch.tv/adam13531)                            |                                      | :us:          |
-| [Alvaro Viebrantz](https://www.twitch.tv/alvaroviebrantz)               |                                      | :brazil:      |
-| [benawad](https://www.twitch.tv/benawad)                                |                                      | :us:          |
-| [Benjamin Lannon](https://www.twitch.tv/lannonbr)                       |                                      | :us:          |
-| [BrenoMartinsDEV](https://www.twitch.tv/brenomartinsdev)                |                                      | :brazil:      |
-| [cmgriffing](https://www.twitch.tv/cmgriffing)                          |                                      | :us:          |
+| [Adam13531](https://www.twitch.tv/adam13531)                            |  TypeScript, React, Firebase...      | :us:          |
+| [Alvaro Viebrantz](https://www.twitch.tv/alvaroviebrantz)               |  ReactJs, Recoil, Firebase, NodeJs...| :brazil:      |
+| [benawad](https://www.twitch.tv/benawad)                                |  TypeScript                          | :us:          |
+| [Benjamin Lannon](https://www.twitch.tv/lannonbr)                       |  Prisma, React, Gatsby               | :us:          |
+| [BrenoMartinsDEV](https://www.twitch.tv/brenomartinsdev)                |  ReactJs, NodeJs                     | :brazil:      |
+| [cmgriffing](https://www.twitch.tv/cmgriffing)                          |  Rust, WebASM, Elixir, Angular...    | :us:          |
 | [CodeShow](https://www.twitch.tv/codeshow)                              |  Python, Flask, Rust                 | :brazil: :us: |
-| [CodigoFalado](https://www.twitch.tv/codigofalado)                      |                                      | :brazil:      |
-| [danielhe4rt](https://www.twitch.tv/danielhe4rt)                        |                                      | :brazil:      |
-| [EduardoRFS](https://www.twitch.tv/eduardorfs)                          |                                      | :brazil: :us: |
-| [funfunfunction](https://www.twitch.tv/funfunfunction)                  |                                      | :us:          |
-| [gabrieldarezzo](https://www.twitch.tv/gabrieldarezzo)                  |                                      | :brazil:      |
-| [HackingTV](https://www.twitch.tv/hackingtv)                            |                                      | :us:          |
-| [Jason Lengstorf](https://www.twitch.tv/jlengstorf)                     |                                      | :us:          |
-| [jmarcolan](https://www.twitch.tv/jmarcolan)                            |                                      | :brazil:      |
-| [Lana_Lux](https://www.twitch.tv/lana_lux)                              |                                      | :us:          |
-| [LucasMontano](https://www.twitch.tv/lucas_montano)                     |                                      | :brazil:      |
-| [marcobrunodev](https://www.twitch.tv/marcobrunodev)                    |                                      | :brazil:      |
-| [mastermndio](https://www.twitch.tv/mastermndio)                        |                                      | :us:          |
-| [mbcrump](https://www.twitch.tv/mbcrump)                                |                                      | :us:          |
-| [PokemaoBR](https://www.twitch.tv/pokemaobr)                            |                                      | :brazil:      |
-| [ProgramadorRanzinza](https://www.twitch.tv/programadorranzinza)        |                                      | :brazil:      |
-| [RenanMav](https://www.twitch.tv/renanmav)                              |                                      | :brazil:      |
-| [TheAltF4Stream](https://www.twitch.tv/thealtf4stream)                  |                                      | :us:          |
-| [Tsoding](https://www.twitch.tv/tsoding)                                |                                      | :us:          |
-| [VapeJuiceJordan](https://www.twitch.tv/vapejuicejordan)                |                                      | :us:          |
-| [ViniciusQuaiato](https://www.twitch.tv/vquaiato)                       |                                      | :brazil:      |
-| [wesbos](https://www.twitch.tv/wesbos)                                  |                                      | :us:          |
+| [CodigoFalado](https://www.twitch.tv/codigofalado)                      |  Nest.Js, MongoDB, TDD, Vue.js       | :brazil:      |
+| [danielhe4rt](https://www.twitch.tv/danielhe4rt)                        |  PHP                                 | :brazil:      |
+| [EduardoRFS](https://www.twitch.tv/eduardorfs)                          |  ReasonML, OCaml                     | :brazil: :us: |
+| [funfunfunction](https://www.twitch.tv/funfunfunction)                  |  Javascript, React...                | :us:          |
+| [gabrieldarezzo](https://www.twitch.tv/gabrieldarezzo)                  |  -                                   | :brazil:      |
+| [HackingTV](https://www.twitch.tv/hackingtv)                            |  -                                   | :us:          |
+| [Jason Lengstorf](https://www.twitch.tv/jlengstorf)                     |  Gatsby, PHP, GraphQL                | :us:          |
+| [jmarcolan](https://www.twitch.tv/jmarcolan)                            |  Python                              | :brazil:      |
+| [Lana_Lux](https://www.twitch.tv/lana_lux)                              |  Games Development                   | :us:          |
+| [LucasMontano](https://www.twitch.tv/lucas_montano)                     |  Redis, Python                       | :brazil:      |
+| [marcobrunodev](https://www.twitch.tv/marcobrunodev)                    |  Js, WebSocket, HTML, CSS...         | :brazil:      |
+| [mastermndio](https://www.twitch.tv/mastermndio)                        |  Cloud Computing, AWS                | :us:          |
+| [mbcrump](https://www.twitch.tv/mbcrump)                                |  Azure, Python, NodeJs, MongoDB...   | :us:          |
+| [PokemaoBR](https://www.twitch.tv/pokemaobr)                            |  PHP                                 | :brazil:      |
+| [ProgramadorRanzinza](https://www.twitch.tv/programadorranzinza)        |  PHP, TypeScript, Dart, Flutter...   | :brazil:      |
+| [RenanMav](https://www.twitch.tv/renanmav)                              |  Reason, ReasonRelay                 | :brazil:      |
+| [TheAltF4Stream](https://www.twitch.tv/thealtf4stream)                  |  GraphQL, NodeJs, Go lang            | :us:          |
+| [Tsoding](https://www.twitch.tv/tsoding)                                |  Java, Assembly                      | :us:          |
+| [VapeJuiceJordan](https://www.twitch.tv/vapejuicejordan)                |  React, Typescript, GraphQL...       | :us:          |
+| [ViniciusQuaiato](https://www.twitch.tv/vquaiato)                       |  Elixir, Go lang, Data Structures... | :brazil:      |
+| [WesBos](https://www.twitch.tv/wesbos)                                  |  Javascript                          | :us:          |
 
 ## YouTube
 
 | Streamer                                                                | Main Technologies                    | Language      |
 |-------------------------------------------------------------------------|--------------------------------------|---------------|
-| [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) |                                      | :us:          |
+| [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) |  Js, React, Vue.js...        | :us:          |
