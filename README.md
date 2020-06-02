@@ -27,7 +27,7 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 | [mastermndio](https://www.twitch.tv/mastermndio)                        |                                      | :us:          |
 | [mbcrump](https://www.twitch.tv/mbcrump)                                |                                      | :us:          |
 | [PokemaoBR](https://www.twitch.tv/pokemaobr)                            |                                      | :brazil:      |
-| [ProgramadorRanzinza](https://www.twitch.tv/programadorranzinza)        |  Node, TypeScrit                     | :brazil:      |
+| [ProgramadorRanzinza](https://www.twitch.tv/programadorranzinza)        |  Node, TypeScript                    | :brazil:      |
 | [RenanMav](https://www.twitch.tv/renanmav)                              |                                      | :brazil:      |
 | [TheAltF4Stream](https://www.twitch.tv/thealtf4stream)                  |                                      | :us:          |
 | [Tsoding](https://www.twitch.tv/tsoding)                                |                                      | :us:          |
