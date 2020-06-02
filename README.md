@@ -39,4 +39,4 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 
 | Streamer                                                                | Main Technologies                    | Language      |
 |-------------------------------------------------------------------------|--------------------------------------|---------------|
-| [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) |  Js, React, Vue.js...        | :us:          |
+| [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) |  Js, React, Vue.js...                | :us:          |
