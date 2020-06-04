@@ -11,6 +11,7 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 | [benawad](https://www.twitch.tv/benawad)                                |  TypeScript                          | :us:          |
 | [Benjamin Lannon](https://www.twitch.tv/lannonbr)                       |  Prisma, React, Gatsby               | :us:          |
 | [BrenoMartinsDEV](https://www.twitch.tv/brenomartinsdev)                |  ReactJs, NodeJs                     | :brazil:      |
+| [BrunoJabs](https://www.twitch.tv/brunojabs)                            |  Elm, Ruby, JS, Elixir               | :brazil:      |
 | [cmgriffing](https://www.twitch.tv/cmgriffing)                          |  Rust, WebASM, Elixir, Angular...    | :us:          |
 | [Codar.me](https://www.twitch.tv/codarme)                               |  NextJS, NodeJs, Typescript, React   | :brazil:      |
 | [CodeShow](https://www.twitch.tv/codeshow)                              |  Python, Flask, Rust                 | :brazil: :us: |
