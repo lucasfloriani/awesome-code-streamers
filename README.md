@@ -17,10 +17,12 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 | [CodeShow](https://www.twitch.tv/codeshow)                              |  Python, Flask, Rust                 | :brazil: :us: |
 | [CodigoFalado](https://www.twitch.tv/codigofalado)                      |  Nest.Js, MongoDB, TDD, Vue.js       | :brazil:      |
 | [danielhe4rt](https://www.twitch.tv/danielhe4rt)                        |  PHP                                 | :brazil:      |
+| [DevChatter](https://www.twitch.tv/devchatter)                          | .NET, C#...                          | :us:          |
 | [EduardoRFS](https://www.twitch.tv/eduardorfs)                          |  ReasonML, OCaml                     | :brazil: :us: |
 | [funfunfunction](https://www.twitch.tv/funfunfunction)                  |  Javascript, React...                | :us:          |
 | [gabrieldarezzo](https://www.twitch.tv/gabrieldarezzo)                  |  -                                   | :brazil:      |
 | [HackingTV](https://www.twitch.tv/hackingtv)                            |  -                                   | :us:          |
+| [GuyRoyse](https://www.twitch.tv/guyroyse)                              | Js, React, Redis, TDD...             | :us:          |
 | [Jason Lengstorf](https://www.twitch.tv/jlengstorf)                     |  Gatsby, PHP, GraphQL                | :us:          |
 | [jmarcolan](https://www.twitch.tv/jmarcolan)                            |  Python                              | :brazil:      |
 | [Lana_Lux](https://www.twitch.tv/lana_lux)                              |  Games Development                   | :us:          |
@@ -42,6 +44,7 @@ List of code streamers from multiples plataforms like Twitch, Youtube, etc
 | Streamer                                                                | Main Technologies                    | Language      |
 |-------------------------------------------------------------------------|--------------------------------------|---------------|
 | [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) |  Js, React, Vue.js...                | :us:          |
+| [Traversy Media](https://www.youtube.com/user/TechGuyWeb)               | React, Next.js, GraphQL, Rails...    | :us:          |
 
 ## Groups
 
